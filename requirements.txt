@@ -1,4 +1,3 @@
-OpenCC
 Pillow
 Pyrogram
 TgCrypto
