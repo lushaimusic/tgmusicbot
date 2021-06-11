@@ -12,7 +12,7 @@
     "youtube-dl",
     "python"
   ],
-  "repository": "https://github.com/InFoJosTel/JosMusicBot",
+  "repository": "https://github.com/LushaiMusic/JosMusicBot",
   "logo": "https://telegra.ph/file/5227bdbc6c81a4004719a.jpg",
   "env": {
     "API_ID": {
