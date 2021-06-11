@@ -13,7 +13,7 @@
     "python"
   ],
   "repository": "https://github.com/LushaiMusic/JosMusicBot",
-  "logo": "https://telegra.ph/file/5227bdbc6c81a4004719a.jpg",
+  "logo": "https://telegra.ph/file/c561e47fcd17c54f3c88c.png",
   "env": {
     "API_ID": {
       "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
