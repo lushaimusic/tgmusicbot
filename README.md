@@ -5,6 +5,14 @@ This bot downloads and sends the audio when someone send a YouTube/SoundCloud/Mi
 in the specified chats, there is a command `/ping` which makes the bot reply with a "ping"
 for checking if the bot is running.
 
+## How to deploy 
+
+Click the below button to watch the video tutorial on deploying
+
+<a href="https://youtu.be/fneLD-2NgWg"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/fneLD-2NgWg"><img src="https://img.shields.io/youtube/views/fneLD-2NgWg?style=social">
+
+
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LushaiMusic/JosMusicBot)
