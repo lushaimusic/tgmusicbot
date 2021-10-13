@@ -1,5 +1,5 @@
 {
-  "name": "Jos Music Bot",
+  "name": "tgmusicbot",
   "description": "Telegram Music Bot for YouTube/SoundCloud/Mixcloud",
   "keywords": [
     "telegram",
@@ -12,7 +12,7 @@
     "youtube-dl",
     "python"
   ],
-  "repository": "https://github.com/LushaiMusic/JosMusicBot",
+  "repository": "https://github.com/lushaimusic/tgmusicbot",
   "logo": "https://telegra.ph/file/c561e47fcd17c54f3c88c.png",
   "env": {
     "API_ID": {
