@@ -1,4 +1,4 @@
-# Jos Music Bot
+# Telegram Music Bot
 Telegram Music Bot for YouTube/SoundCloud/Mixcloud
 
 This bot downloads and sends the audio when someone send a YouTube/SoundCloud/MixCloud link
@@ -15,7 +15,7 @@ Click the below button to watch the video tutorial on deploying
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LushaiMusic/JosMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lushaimusic/tgmusicbot)
 
 ## Manually
 
@@ -37,7 +37,7 @@ apt install ffmpeg
 
 virtualenv venv
 venv/bin/pip install -U -r requirements.txt
-venv/bin/python josmusicbot.py```
+venv/bin/python bot.py```
 
 ## License
 
