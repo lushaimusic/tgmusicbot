@@ -1,1 +1,1 @@
-worker: python3 josmusicbot.py
+worker: python3 bot.py
